@@ -7,4 +7,5 @@ int main(){
   scanf("%f", &num2);
   float product = num1 * num2;
   printf("Product of %f and %f is %f", num1, num2, product);
+  return 0;
 }
